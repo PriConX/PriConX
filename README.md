@@ -1,4 +1,3 @@
-- Fun projects will be released below soon
 
 <!---
 PriConX/PriConX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
